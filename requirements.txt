@@ -1,5 +1,6 @@
 asgiref==3.2.10
 Django==3.0.7
+distribute==0.6.28
 django-crispy-forms==1.10.0
 django-extensions==3.0.3
 Pillow==7.2.0
